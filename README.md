@@ -8,7 +8,7 @@ O projeto é um **Pokédex interativa**, onde você pode:
 - ⭐ Marcar Pokémons como **favoritos**  
 - 📖 Acessar **detalhes completos** de cada Pokémon
 
-- Link do Vercel:ws-frontend-fabrica25-2-iota.vercel.app  
+- Link do Vercel: https://ws-frontend-fabrica25-2-iota.vercel.app  
 
 ---
 
